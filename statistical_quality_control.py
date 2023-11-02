@@ -63,6 +63,4 @@ def optimized_control_chart_analysis(
         )
     print(description)
 
-
-# To run the script, simply call the function:
 optimized_control_chart_analysis()
