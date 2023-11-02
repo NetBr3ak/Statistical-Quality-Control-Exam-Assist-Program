@@ -6,9 +6,9 @@ Welcome to the Statistical Quality Control project! This tool was created to ass
 
 ## Features 🛠️
 
-- **Automation:** Streamlines statistical quality control processes.
-- **Ease of Use:** Designed to help you excel in your exam with minimal effort.
-- **Originality:** Stand out with a unique approach to solving problems.
+- **Automation:** Streamlines statistical quality control processes. 🤖
+- **Ease of Use:** Designed to help you excel in your exam with minimal effort. 📚
+- **Originality:** Stand out with a unique approach to solving problems. 🌟
 - **Visual Insights:** Get a clear view of your data with our data visualization tools. 📈📉
 - **Real-time Collaboration:** Collaborate with classmates in real-time with built-in chat and shared project boards. 💬👥
 
@@ -23,21 +23,22 @@ Here are a few screenshots of the tool in action:
 
 Follow these simple steps to get started with the project:
 
-1. Clone the repository to your local machine.
+1. Clone the repository to your local machine. 📦
 
-2. Run the program using Python.
-3. Follow the on-screen instructions to utilize the tool effectively.
+2. Run the program using Python. 🐍
+
+3. Follow the on-screen instructions to utilize the tool effectively. ⚙️
 
 ## Contributions 🤝
 
-Contributions to this project are welcome. If you have any ideas for improvement or bug fixes, feel free to submit a pull request.
+Contributions to this project are welcome. If you have any ideas for improvement or bug fixes, feel free to submit a pull request. 🛠️
 
 ## License 📜
 
-This project is licensed under the MIT License. For details, please refer to the [LICENSE](LICENSE) file.
+This project is licensed under the MIT License. For details, please refer to the [LICENSE](LICENSE) file. 📄
 
 ## Author 👨‍💻
 
-- ProfessionalCatSummoner (https://github.com/ProfessionalCatSummoner)
+- ProfessionalCatSummoner ([GitHub](https://github.com/ProfessionalCatSummoner))
 
-Feel free to contribute, use this project for your studies, and best of luck with your exam! 🍀📚📝
+Feel free to contribute, use this project for your studies, and best of luck with your exam! 🍀
