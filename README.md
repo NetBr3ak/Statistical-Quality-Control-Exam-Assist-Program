@@ -40,4 +40,4 @@ This project is licensed under the MIT License. For details, please refer to the
 
 - ProfessionalCatSummoner ([GitHub](https://github.com/ProfessionalCatSummoner))
 
-Feel free to contribute, use this project for your studies, and best of luck with your exam! 🍀
+Best of luck with your exam! 🍀
