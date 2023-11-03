@@ -1,4 +1,4 @@
-# Statistical Quality Control 📈📊
+![LOGO](https://github.com/ProfessionalCatSummoner/Statistical-Quality-Control-Exam-Assist-Program/assets/85062086/46d8a145-3edb-409e-abb1-d636f0341f52)
 
 ## Introduction 🚀
 
