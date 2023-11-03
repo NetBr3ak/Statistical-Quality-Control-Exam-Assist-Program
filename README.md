@@ -30,7 +30,7 @@ This will download the project files to your local directory. 📦
 
 2. Run the program using **Python** with the following command:
 ```bash
-python your_program_file.py
+python3 statistical_quality_control.py
 ```
 Make sure you have Python installed on your system. 🐍
 
