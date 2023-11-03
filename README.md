@@ -15,7 +15,7 @@ Welcome to the Statistical Quality Control project! This tool was created to ass
 
 ## Screenshots 📸
 
-Here are a few screenshots of the tool in action:
+Here are two screenshots of the tool in action:
 
 ![screenshot1](https://github.com/ProfessionalCatSummoner/statistical_quality_control/assets/85062086/9eaccfef-dba2-4113-9563-7218a90b6c9e)
 ![screenshot2](https://github.com/ProfessionalCatSummoner/statistical_quality_control/assets/85062086/3fc430d7-56ee-4a7b-8d9a-62bf59abbe88)
