@@ -32,12 +32,10 @@ Follow these simple steps to get started with the project:
   cd statistical_quality_control
   ```
 
-3. Run the program using **Python** with the following command:
+3. Run the program using **Python 3** with the following command:
   ```bash
   python3 statistical_quality_control.py
   ```
-
-4. Follow the instructions to **utilize the tool effectively**. ⚙️
 
 ## Contributions 🤝
 
