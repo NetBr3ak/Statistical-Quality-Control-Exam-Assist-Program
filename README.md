@@ -23,19 +23,15 @@ Here are a few screenshots of the tool in action:
 Follow these simple steps to get started with the project:
 
 1. **Clone the repository** to your local machine using the following command:
-
-   ```bash
-   git clone https://github.com/ProfessionalCatSummoner/statistical_quality_control.git
-   ```
-
+```bash
+git clone https://github.com/ProfessionalCatSummoner/statistical_quality_control.git
+```
 This will download the project files to your local directory. 📦
 
 2. Run the program using **Python** with the following command:
-
 ```bash
 python your_program_file.py
 ```
-
 Make sure you have Python installed on your system. 🐍
 
 3. Follow the instructions to **utilize the tool effectively**. ⚙️
