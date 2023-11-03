@@ -16,7 +16,7 @@ Welcome to the Statistical Quality Control project! This tool was created to ass
 - **Automation:** Streamlines statistical quality control processes. 🤖
 - **Ease of Use:** Designed to help you in your exam with your minimal effort. 📚
 - **Originality:** Stand out with a unique approach to solving problems. 🌟
-- **Visual Insights:** Get a clear view of your data with our data visualization feature. 📈📉
+- **Visual Insights:** Get a clear view of your data with my data visualization feature. 📈📉
 
 ## Screenshots 📸
 
