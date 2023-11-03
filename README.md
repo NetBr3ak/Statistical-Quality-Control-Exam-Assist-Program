@@ -1,6 +1,11 @@
-<p align="center">
+<div align="center">
   <img src="https://github.com/ProfessionalCatSummoner/Statistical-Quality-Control-Exam-Assist-Program/assets/85062086/46d8a145-3edb-409e-abb1-d636f0341f52" alt="Logo">
-</p>
+</div>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Logo">
+  <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="Logo">
+</div>
 
 ## Introduction 🚀
 
