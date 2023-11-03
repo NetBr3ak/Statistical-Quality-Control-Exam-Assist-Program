@@ -2,7 +2,7 @@
 
 ## Introduction 🚀
 
-Welcome to the Statistical Quality Control project! This tool was created to assist students like me in tackling statistical quality control tasks, especially for exams. If you've got an upcoming exam and can use Excel, this program might help you stand out with a touch of originality. 😄
+Welcome to the Statistical Quality Control project! This tool was created to assist students like me in tackling statistical quality control tasks, especially for exams. If you've got an upcoming exam and can use Excel, this program might help you stand out with a spark of creativity. ✨
 
 ## Features 🛠️
 
