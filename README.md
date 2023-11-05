@@ -52,7 +52,8 @@ Alternatively, you can skip all these steps and simply copy all the code from th
 
 ## "It's still too complicated for me! (The echoes of anxiety intensify)" 😣
 
-Chill out. An even quicker and easier way to do it is by using this link: <a href="http://tpcg.io/_68CG3I" target="_blank">here</a>. Just click "Preview" on this site in the upper left corner. You don't have to worry about programming or installation – it all works online with Python 3 and has all the necessary features.
+Chill out. An even quicker and easier way to do it is by using this link: <a href="http://tpcg.io/_68CG3I" onclick="window.open('http://tpcg.io/_68CG3I'); return false;">here</a>. Just click "Preview" on this site in the upper left corner. You don't have to worry about programming or installation – it all works online with Python 3 and has all the necessary features.
+
 
 ## Contributions 🤝
 
