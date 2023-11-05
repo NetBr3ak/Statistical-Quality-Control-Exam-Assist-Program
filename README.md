@@ -46,6 +46,7 @@ Follow these simple steps to get started with the project:
   ```bash
   python3 statistical_quality_control.py
   ```
+Alternatively, you can skip all these steps and simply copy all the code from the "statistical_quality_control.py" file in this repository. Then, paste the code into a Python 3 interpreter like Visual Studio Code (highly recommended) or any other IDE that supports Python 3 and those libraries.
 
 ## Contributions 🤝
 
