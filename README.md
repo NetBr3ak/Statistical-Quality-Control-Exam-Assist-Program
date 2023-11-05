@@ -49,7 +49,7 @@ Follow these simple steps to get started with the project:
 
 Alternatively, you can skip all these steps and simply copy all the code from the <a href="https://github.com/ProfessionalCatSummoner/Statistical-Quality-Control-Exam-Assist-Program/blob/main/statistical_quality_control.py">statistical_quality_control.py</a> file in this repository. Then, paste the code into a Python 3 interpreter like **Visual Studio Code** or any other IDE that supports Python 3 and those libraries.
 
-## "It's too complicated for me as a non-programmer (the echoes of anxiety intensify)" 😓
+## "It's too complicated for me as a non-programmer (the echo of anxiety intensify)" 😓
 
 I've got you covered! 👍 An even quicker and easier way to do it is by using this link: <a href="http://tpcg.io/_68CG3I">here</a>. Just click **Preview** on this site in the upper left corner. You don't have to worry about programming or installation – it all works online with Python 3 and has all the necessary features.
 
