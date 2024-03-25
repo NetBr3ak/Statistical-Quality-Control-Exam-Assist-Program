@@ -9,18 +9,18 @@
 
 ## Introduction 🚀
 
-Welcome to the Statistical Quality Control project! This tool was created to assist students like me in tackling statistical quality control tasks, especially for exams. If you've got an upcoming exam and can use Excel, this program might help you stand out with a spark of creativity. ✨
+Welcome to the Statistical Quality Control project! This tool is designed to aid students like myself in managing statistical quality control tasks effectively. ✨
 
 ## Features 🛠️
 
-- **Automation:** Streamlines statistical quality control processes. 🤖
-- **Ease of Use:** Designed to help you in your exam with your minimal effort. 📚
-- **Originality:** Stand out with a unique approach to solving problems. 🌟
-- **Visual Insights:** Get a clear view of your data with my data visualization feature. 📈📉
+- **Automation:** Simplifies statistical quality control processes. 🤖
+- **User-Friendly Interface:** Engineered to minimize user effort during exam preparation. 📚
+- **Innovative Approach:** Differentiate yourself by leveraging unique problem-solving methodologies. 🌟
+- **Visual Data Representation:** Gain insights into your data through intuitive visualization tools. 📈📉
 
 ## Screenshots 📸
 
-Here are two screenshots of the tool in action:
+Take a glimpse at the tool in action with these screenshots:
 
 ![screenshot1](https://github.com/ProfessionalCatSummoner/statistical_quality_control/assets/85062086/9eaccfef-dba2-4113-9563-7218a90b6c9e)
 ![screenshot2](https://github.com/ProfessionalCatSummoner/statistical_quality_control/assets/85062086/3fc430d7-56ee-4a7b-8d9a-62bf59abbe88)
@@ -60,12 +60,12 @@ Contributions to this project are welcome. If you have any ideas for improvement
 
 ## License 📜
 
-This project is licensed under the MIT License. For details, please refer to the [LICENSE](LICENSE) file. 📄
+This project is licensed under the [Apache License 2.0](LICENSE).
 
 ## Author 👨‍💻
 
-- ProfessionalCatSummoner ([GitHub](https://github.com/ProfessionalCatSummoner))
+- T3aC0d3 ([GitHub](https://github.com/T3aC0d3))
 
 <h2 align="center">
-Best of luck with your exam! 🍀
+Best of luck with your exams! 🍀
 </h2>
