@@ -60,7 +60,7 @@ Contributions to this project are welcome. If you have any ideas for improvement
 
 ## License 📜
 
-This project is licensed under the [Apache License 2.0](LICENSE).
+This project is licensed under the [MIT license](LICENSE).
 
 ## Author 👨‍💻
 
